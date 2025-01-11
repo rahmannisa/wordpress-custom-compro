@@ -1,2 +1,2 @@
 # indiekraf-compro
-Company Profile Indiekraf
+Company Profile CMS-based with RestAPI integration using Vue.js and Bootstrap
